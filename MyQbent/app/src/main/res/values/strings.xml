@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyQbent</string>
+    <string name="get_value">GET</string>
+    <string name="recycle_data">get list</string>
+</resources>
